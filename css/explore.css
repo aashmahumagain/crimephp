@@ -1,0 +1,36 @@
+.explore {
+    margin-top: 20px;
+  }
+.explore .first-row img {
+    width: 200px;
+    height: 165px;
+    border-radius: 20px;
+  }
+  .explore .first-row img {
+    width: 200px;
+    height: 165px;
+    border-radius: 20px;
+  }
+  .explore .popular-topics .popular-news {
+    color: #86af8a;
+    font-weight: bold;
+    font-size: 28px;
+  }
+  .explore .popular-topics .explore-section {
+    margin-top: 12px;
+    padding: 18px;
+    width: 1199px;
+    height: 190px;
+    background: #e8dede;
+    border-radius: 10px;
+  }
+  .explore .popular-topics .explore-section .crime-heading {
+    color: red;
+  }
+  .explore .image-section {
+    width: 174px;
+    border-radius: 12px;
+  }
+  .last-content-crime{
+      margin-bottom: 20px;
+  }

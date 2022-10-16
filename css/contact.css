@@ -1,0 +1,14 @@
+.contact-page .contact-us {
+    display: flex;
+    justify-content: center;
+  }
+  .contact-page .contact-us .contact-paragraph {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .contact-page .contact-us .emergency-num {
+    text-align: center;
+  }
+  .contact-page .mid-section {
+    padding: 50px;
+  }

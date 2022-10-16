@@ -1,0 +1,89 @@
+.about-us-page {
+  background: #2323;
+  padding: 30px;
+}
+.about-us-page .first-section .our-goals {
+    background-color: #696569;
+  }
+  .about-us-page .first-section .our-goals .topic {
+    padding: 12px;
+  }
+  .about-us-page .vision {
+    font-weight: 600;
+  }
+  .about-us-page .vision-section .para {
+    font-size: 20px;
+  }
+  .about-us-page .purpose .list-item {
+    font-size: 20px;
+  }
+  li {
+    list-style: none;
+  }
+  .about-us-page .member-name {
+    padding: 16px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+  }
+  .about-us-page .member-details {
+    box-shadow: 1px 1px 7px -2px;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  .about-us-page .member-details .image-icon .particular-image {
+    width: 131px;
+    border-radius: 60px;
+  }
+  .about-us-page .member-details .details {
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  .about-us-page .hiring-total-section {
+    margin-top: 40px;
+  }
+  .about-us-page .hiring-total-section .hiring-img {
+    width: 600px;
+    height: 500px;
+  }
+  .about-us-page .advertise-section {
+    margin-left: 90px;
+    box-shadow: 1px 1px 7px -2px;
+    padding: 20px;
+    background-color: #c4bfbf;
+  }
+  .about-us-page .advertise-section .hiring-topic {
+    font-weight: bold;
+  }
+  .about-us-page .advertise-section .vacancy-section {
+    font-size: 24px;
+  }
+  .about-us-page .advertise-section .unordered-list {
+    font-size: 18px;
+  }
+  a {
+    color: #0d6efd;
+    text-decoration: underline;
+  }
+  .about-us-page .advertise-section .btn-section .btn-content {
+    width: 135px;
+    height: 50px;
+    background: green;
+    border-radius: 48px;
+    cursor: pointer;
+  }
+  .about-us-page .latest-newss .news-section {
+    color: red;
+    border-bottom: 7px solid gray;
+  }
+  .about-us-page .latest-newss .author {
+    color: grey;
+  }
+  .about-us-page .latest-newss .latest-paragraph .paragraph-margin {
+    margin-bottom: 5px;
+  }
+  .about-us-page .latest-paragraph .read-more {
+    color: red;
+    cursor: pointer;
+  }

@@ -1,0 +1,132 @@
+.navbar {
+    background-color: #333 !important;
+  }
+  .nav-link {
+      font-size: 20px !important;
+      color: white !important;
+  }
+  .nav-topic{
+      white-space: nowrap;
+  }
+  .navbar-collapse{
+      display: flex;
+      justify-content: flex-end;
+  }
+/*mid-section begains */
+.mid-section{
+    position: relative;
+} .img-scene {
+    width: 100%;
+    height: 300px;
+}
+.paragraph-section{
+    position: absolute;
+    bottom: 180px;
+    right: 371px;
+    color: white;
+    font-size: 24px;
+}
+
+/*police group mid section css*/
+.mid-content{
+    margin-top: 20px;
+}
+ .police-image-section img {
+    height: 270px;
+  }
+
+
+  .latest-news {
+   margin-left: 28px;
+    
+  }
+  .news-section {
+    border-bottom: 3px solid gray;
+    width: 200px;
+    color: red;
+    font-weight: bold;
+  }
+  .author {
+    color: grey;
+  }
+  .image-section img{
+width: 400px;
+  }
+  .hot-news {
+    border-bottom: 3px solid gray;
+    width: 205px;
+    color: #042f04;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  .news-sections img {
+    width: 205px;
+    height: 205px;
+}
+ .left-news{
+     margin-left: 69px;
+ }
+ /*criminal topic */
+ .criminal-topics {
+     display: flex;
+     justify-content: center;
+    margin: 12px;
+    font-family: sans serief;
+    font-weight: bold;
+    color: red;
+  }
+  .most-wanted img{
+    width: 400px;
+    height: 247px;
+}
+  .middle-one{
+    margin-left: 30px;
+    margin-right: 40px;
+  }
+  .last-one{
+      margin-left: 64px;
+  }
+  /* missing person starts*/
+  .missing-topics{
+      display: flex;
+      justify-content: center;
+      color: red;
+      font-weight: bold;
+  }
+  .second-missing{
+margin-left: 30px;
+  }
+  .last-missing{
+      margin-left: 65px;
+  }
+
+  /*footer begains */
+  .footer-section{
+      overflow: hidden;
+    background-color: #1c1f1c;
+    color: white;
+  }
+  .social-networks{
+     
+      display: flex;
+      justify-content: space-between;
+  }
+.footer-heading{
+      margin-left: 15px;
+      margin-top: 12px;
+  }
+  .paragraph-footer{
+      margin-left: 12px;
+  }
+  .footer-link{
+      display: flex;
+      justify-content: center;
+  }
+  .image-social img {
+      margin-left: 12px;
+      margin-right:12px;
+  }
+  .link-section li{
+  list-style: none;
+}
